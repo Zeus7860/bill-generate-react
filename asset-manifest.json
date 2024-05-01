@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bill-generator-react/static/css/main.4e505e42.css",
-    "main.js": "/bill-generator-react/static/js/main.b79377f4.js",
-    "static/js/239.11929c5e.chunk.js": "/bill-generator-react/static/js/239.11929c5e.chunk.js",
-    "static/js/213.d78acace.chunk.js": "/bill-generator-react/static/js/213.d78acace.chunk.js",
-    "static/js/732.295ba3cc.chunk.js": "/bill-generator-react/static/js/732.295ba3cc.chunk.js",
-    "static/js/453.3a391473.chunk.js": "/bill-generator-react/static/js/453.3a391473.chunk.js",
-    "index.html": "/bill-generator-react/index.html",
-    "main.4e505e42.css.map": "/bill-generator-react/static/css/main.4e505e42.css.map",
-    "main.b79377f4.js.map": "/bill-generator-react/static/js/main.b79377f4.js.map",
-    "239.11929c5e.chunk.js.map": "/bill-generator-react/static/js/239.11929c5e.chunk.js.map",
-    "213.d78acace.chunk.js.map": "/bill-generator-react/static/js/213.d78acace.chunk.js.map",
-    "732.295ba3cc.chunk.js.map": "/bill-generator-react/static/js/732.295ba3cc.chunk.js.map",
-    "453.3a391473.chunk.js.map": "/bill-generator-react/static/js/453.3a391473.chunk.js.map"
+    "main.css": "/bill-generate-react/static/css/main.4e505e42.css",
+    "main.js": "/bill-generate-react/static/js/main.f19657ec.js",
+    "static/js/239.11929c5e.chunk.js": "/bill-generate-react/static/js/239.11929c5e.chunk.js",
+    "static/js/213.d78acace.chunk.js": "/bill-generate-react/static/js/213.d78acace.chunk.js",
+    "static/js/732.295ba3cc.chunk.js": "/bill-generate-react/static/js/732.295ba3cc.chunk.js",
+    "static/js/453.3a391473.chunk.js": "/bill-generate-react/static/js/453.3a391473.chunk.js",
+    "index.html": "/bill-generate-react/index.html",
+    "main.4e505e42.css.map": "/bill-generate-react/static/css/main.4e505e42.css.map",
+    "main.f19657ec.js.map": "/bill-generate-react/static/js/main.f19657ec.js.map",
+    "239.11929c5e.chunk.js.map": "/bill-generate-react/static/js/239.11929c5e.chunk.js.map",
+    "213.d78acace.chunk.js.map": "/bill-generate-react/static/js/213.d78acace.chunk.js.map",
+    "732.295ba3cc.chunk.js.map": "/bill-generate-react/static/js/732.295ba3cc.chunk.js.map",
+    "453.3a391473.chunk.js.map": "/bill-generate-react/static/js/453.3a391473.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e505e42.css",
-    "static/js/main.b79377f4.js"
+    "static/js/main.f19657ec.js"
   ]
 }
